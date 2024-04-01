@@ -1,7 +1,7 @@
 <h1>ANÁLISE EXPLORATÓRIA</h1>
 <p align="center">Introdução a Machine Learning</p>
 <p align="center">
-        <img width='175' height='175' src="https://www.alura.com.br/assets/img/home/alura-logo.1709759817.svg" />
+        <img width='175' height='100' src="https://www.alura.com.br/artigos/assets/para-que-serve-adobe-illustrator/imagem1.jpg" />
     </p>
 <p align="center">Machine Learning com Prophet</p>
 <p align="center">
